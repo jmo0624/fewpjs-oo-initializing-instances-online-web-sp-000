@@ -15,3 +15,6 @@ class Lunch {
   }
 }
 
+class Dinner {
+  
+}
